@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+MIDlet-Version: 1.0
+MIDlet-Jar-Size: 175927
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: BingDailyWallpaper.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os
+RIM-COD-URL-1: BingWallpaper-1.cod
+RIM-COD-SHA1-1: 1a 3c 69 89 05 5d 5c 49 73 00 ba e2 cc 8e 58 cf c3 5f 30 7f
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Size-1: 58752
+RIM-COD-Module-Name: BingWallpaper
+MIDlet-Name: BingDailyWallpaper
+RIM-COD-Size: 34952
+RIM-COD-Creation-Time: 1347931156
+MIDlet-1: Bing Daily Wallpaper,img/iconBeveled.png,
+RIM-COD-URL: BingWallpaper.cod
+RIM-COD-SHA1: c2 38 47 25 b0 4d cf 56 04 d7 90 2e 98 18 c9 07 64 0d ad a6
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: Domisy Dev

@@ -1,0 +1,13 @@
+MIDlet-Name: BingDailyWallpaper
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Domisy Dev
+MIDlet-Description: Update you blackberry's homescreen daily with the Bing image of the day.
+MIDlet-Jar-URL: BingDailyWallpaper.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Bing Daily Wallpaper,img/iconBeveled.png,
+RIM-MIDlet-Flags-1: 0
+MIDlet-2: Bing Daily Wallpaper,img/iconBeveled.png,startupEntry
+RIM-MIDlet-Flags-2: 3
+

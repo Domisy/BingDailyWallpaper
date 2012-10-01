@@ -1,0 +1,10 @@
+MIDlet-Name: BingDailyWallpaper
+MIDlet-Version: 1.0
+MIDlet-Vendor: Domisy Dev
+MIDlet-Jar-URL: BingDailyWallpaper.jar
+MIDlet-Jar-Size: 0
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Bing Daily Wallpaper,img/iconBeveled.png,
+RIM-MIDlet-Flags-1: 0
+
