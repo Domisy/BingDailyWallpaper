@@ -41,7 +41,7 @@ public class HelloWorldDemo extends UiApplication implements SystemListener
 {
 	public static HTTPInterface _httpInterface = new HTTPInterface(); 
 	private static HelloWorldScreen _mainScreen;
-    	
+    private static HelloWorldDemo theApp;
     	
 	private HelloWorldDemo() {                
         pushScreen(new AppScreen(this));  
@@ -60,7 +60,7 @@ public class HelloWorldDemo extends UiApplication implements SystemListener
     	String deviceVersionString = DeviceInfo.getSoftwareVersion();
     	String deviceVersionSubString = deviceVersionString.substring(0, 3);
     	BingModel.deviceVersion = Double.parseDouble(deviceVersionSubString);
-    	HelloWorldDemo theApp = new HelloWorldDemo(); 
+    	theApp = new HelloWorldDemo(); 
     	if (args != null && args.length > 0 && "startupEntry".equals(args[0]))
         {
     		
@@ -81,6 +81,7 @@ public class HelloWorldDemo extends UiApplication implements SystemListener
         }
     	else
     	{
+    		//theApp = new HelloWorldDemo();
     		BingModel.isRunStartup = false;      
     		theApp.enterEventDispatcher();
     	}

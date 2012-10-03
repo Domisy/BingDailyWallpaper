@@ -36,17 +36,17 @@ public class AboutScreen extends MainScreen {
             } 
 
 	    };
-	    vfm.add(new RichTextField("All images provided by Bing.com.", Field.NON_FOCUSABLE | RichTextField.TEXT_JUSTIFY_HCENTER));
-		vfm.add(new RichTextField("This application is in no way affiliated with Bing or Microsoft corporations.", Field.NON_FOCUSABLE | RichTextField.TEXT_JUSTIFY_HCENTER));
+	    vfm.add(new RichTextField("All images provided by Bing.com.", Field.NON_FOCUSABLE | RichTextField.TEXT_ALIGN_HCENTER));
+		vfm.add(new RichTextField("This application is in no way affiliated with Bing or Microsoft corporations.", Field.NON_FOCUSABLE | RichTextField.TEXT_ALIGN_HCENTER));
 		vfm.add(new SpacerField(0, 25));
-		vfm.add(new RichTextField("Bing Daily Wallpaper was brought to you by - Domisy Dev", Field.NON_FOCUSABLE | RichTextField.TEXT_JUSTIFY_HCENTER));
+		vfm.add(new RichTextField("Bing Daily Wallpaper was brought to you by - Domisy Dev", Field.NON_FOCUSABLE | RichTextField.TEXT_ALIGN_HCENTER));
 		vfm.add(new SpacerField(0, 25));
-		vfm.add(new RichTextField("Lead Developer - Theodore Mavrakis", Field.NON_FOCUSABLE | RichTextField.TEXT_JUSTIFY_HCENTER));
+		vfm.add(new RichTextField("Lead Developer - Theodore Mavrakis", Field.NON_FOCUSABLE | RichTextField.TEXT_ALIGN_HCENTER));
 		vfm.add(new SpacerField(0, 25));
-		vfm.add(new RichTextField("For Support - domisydev@gmail.com", Field.NON_FOCUSABLE | RichTextField.TEXT_JUSTIFY_HCENTER));
-		vfm.add(new RichTextField("Follow us on Twitter - @flaminSaganaki and @DomisyDev", Field.NON_FOCUSABLE | RichTextField.TEXT_JUSTIFY_HCENTER));
+		vfm.add(new RichTextField("For Support - domisydev@gmail.com", Field.NON_FOCUSABLE | RichTextField.TEXT_ALIGN_HCENTER));
+		vfm.add(new RichTextField("Follow us on Twitter - @flaminSaganaki and @DomisyDev", Field.NON_FOCUSABLE | RichTextField.TEXT_ALIGN_HCENTER));
 		vfm.add(new SpacerField(0, 25));
-		vfm.add(new RichTextField("Version - 1.0.0", Field.NON_FOCUSABLE | RichTextField.TEXT_JUSTIFY_HCENTER));
+		vfm.add(new RichTextField("Version - 1.0.0", Field.NON_FOCUSABLE | RichTextField.TEXT_ALIGN_HCENTER));
 		add(vfm);
 		
 	}
