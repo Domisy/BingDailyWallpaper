@@ -1,0 +1,38 @@
+MIDlet-Name: BingDailyWallpaper
+MIDlet-Version: 1.0.0
+MIDlet-Vendor: Domisy Dev
+MIDlet-Jar-URL: BingDailyWallpaper.jar
+MIDlet-Jar-Size: 848570
+MIDlet-Description: Make the Bing homepage image your Blackberry desktop wallpaper each day.
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: Daily Wallpaper,img/iconBeveledNew.png,
+RIM-MIDlet-Flags-1: 1
+Manifest-Version: 1.0
+RIM-COD-URL: DailyWallpaper.cod
+RIM-COD-Size: 60340
+RIM-COD-Creation-Time: 1350791815
+RIM-COD-Module-Name: DailyWallpaper
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_os
+RIM-COD-SHA1: 44 04 01 c0 04 52 bf 02 de 26 78 45 44 c3 e1 af 22 cd 94 ae
+RIM-COD-URL-1: DailyWallpaper-1.cod
+RIM-COD-Size-1: 50392
+RIM-COD-SHA1-1: e1 1f 1b de f0 ec c1 ab f5 1d e9 fe 0c d8 67 20 d2 aa cf 55
+RIM-COD-URL-2: DailyWallpaper-2.cod
+RIM-COD-Size-2: 50232
+RIM-COD-SHA1-2: f8 8e ba 1c 1c 16 f2 c7 c0 1f 11 a4 07 ed 5e 04 59 71 bb be
+RIM-COD-URL-3: DailyWallpaper-3.cod
+RIM-COD-Size-3: 50232
+RIM-COD-SHA1-3: 19 9c 68 da 76 e0 a7 61 dc 46 ad 29 a5 59 8e 8a 7b 4b 70 62
+RIM-COD-URL-4: DailyWallpaper-4.cod
+RIM-COD-Size-4: 50236
+RIM-COD-SHA1-4: 38 5e c4 3c 4b 60 a3 0e 5e 6f 6e f6 08 8d c7 bf 77 3a ee ec
+RIM-COD-URL-5: DailyWallpaper-5.cod
+RIM-COD-Size-5: 50236
+RIM-COD-SHA1-5: 55 3a 1b 2d 0b be c8 cd 50 a7 8f 48 9b e5 54 b9 f0 72 43 12
+RIM-COD-URL-6: DailyWallpaper-6.cod
+RIM-COD-Size-6: 50236
+RIM-COD-SHA1-6: d0 c8 37 ee e6 e8 fd e7 ce b0 62 cf 39 d2 12 de d2 f2 f4 08
+RIM-COD-URL-7: DailyWallpaper-7.cod
+RIM-COD-Size-7: 61740
+RIM-COD-SHA1-7: e0 81 a2 4c 27 3a 9d 30 4a 91 7c 58 54 28 3f fe 74 bc ab 0d

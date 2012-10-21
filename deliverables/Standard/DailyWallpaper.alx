@@ -1,0 +1,51 @@
+<loader version="1.0">
+	<application id="DailyWallpaper">
+		<name >
+			Daily Wallpaper
+		</name>
+		<description >
+			Make the Bing homepage image your Blackberry desktop wallpaper each day.
+		</description>
+		<version >
+			1.0.0
+		</version>
+		<vendor >
+			Domisy Dev
+		</vendor>
+		<copyright >
+			Copyright (c) 2012 Domisy Dev
+		</copyright>
+		<fileset Java="1.55" _blackberryVersion="[6.0.0,6.0.1)">
+			<directory >
+				6.0.0
+			</directory>
+			<files >
+				DailyWallpaper.cod
+
+			</files>
+
+		</fileset>
+		<fileset Java="1.55" _blackberryVersion="[7.0.0,7.0.1)">
+			<directory >
+				7.0.0
+			</directory>
+			<files >
+				DailyWallpaper.cod
+
+			</files>
+
+		</fileset>
+		<fileset Java="1.55" _blackberryVersion="[7.1.0)">
+			<directory >
+				7.1.0
+			</directory>
+			<files >
+				DailyWallpaper.cod
+
+			</files>
+
+		</fileset>
+
+	</application>
+
+</loader>
